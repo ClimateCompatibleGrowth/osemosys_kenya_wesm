@@ -1,4 +1,4 @@
-[![Documentation Status](https://readthedocs.org/projects/osemosyskenya/badge/?version=latest)](https://osemosyskenya.readthedocs.io/en/latest/?badge=latest)
+[![Documentation Status](https://readthedocs.org/projects/osemosys-kenya-wesm/badge/?version=latest)](https://osemosys-kenya-wesm.readthedocs.io/en/latest/?badge=latest)
 
 # OSeMOSYS Kenya Whole Energy System Model
 
