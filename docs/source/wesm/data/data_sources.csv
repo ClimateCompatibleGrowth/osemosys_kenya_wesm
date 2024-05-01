@@ -1,0 +1,17 @@
+﻿Category,Source,Data type,Comments
+Power sector,LCPDP,Technology performances,Least Cost Power Development Plan - Long-term and medium-term plans
+,Starter Data Kit,Technology performances,https://zenodo.org/records/7539097
+Agriculture,Starter Data Kit,Technology performances,https://zenodo.org/records/7539097
+Commercial,Starter Data Kit,Technology performances,https://zenodo.org/records/7539097
+Industry,Starter Data Kit,Technology performances,https://zenodo.org/records/7539097
+Residential,Nuvoni,"Technology performances, current capacity mix",To be published
+,MoE,Technology performances,https://eedadvisory.cdn.prismic.io/eedadvisory/0620258e-d904-40d9-a01b-2a4309347129_MoE-2019-Kenya-Cooking-Sector-Study-compressed.pdf
+,MECS,Technology performances,https://mecs.org.uk/wp-content/uploads/2023/03/Comparing-energy-consumption-and-costs-from-cooking-across-the-MECS-programme.pdf
+Transports,GIZ,Technology performances,https://www.changing-transport.org/wp-content/uploads/2018_GIZ_INFRAS_Transport_Mitigation_Options_Kenya.pdf
+,TEAMS,"Technology performances, current capacity mix",To be published
+Demands,IEA,Energy balance,https://www.iea.org/data-and-statistics/data-product/world-energy-balances
+,UN WPP,Drivers,https://population.un.org/wpp/
+,UN WUP,Drivers,https://population.un.org/wup/
+,KNBS,Drivers,https://www.knbs.or.ke/2019-kenya-population-and-housing-census-reports/
+,World Bank,Drivers,https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=KE
+,Our World in Data,Drivers,https://ourworldindata.org/country/kenya

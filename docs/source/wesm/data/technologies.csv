@@ -1,0 +1,292 @@
+﻿Code,Description
+AGRDSL001,Agriculture machinery - Diesel - Base efficiency
+AGRDSL005,Agriculture machinery - Diesel - Improved efficiency
+AGRGSL001,Agriculture machinery - Gasoline - Base efficiency
+AGRGSL005,Agriculture machinery - Gasoline - Improved efficiency
+AGRHFO001,Agriculture machinery - Heavy fuel oil- Base efficiency
+BACKSTOP,Backstop technology - Power sector
+CCOELC001,Commercial - Other electricity demand - Electricity - Base efficiency
+EXPELC,Electricity - Exports
+FTEAGRDSL,Fuel tech mix - Agriculture - Diesel
+FTEAGRGSL,Fuel tech mix - Agriculture - Gasoline
+FTEAGRHFO,Fuel tech mix - Agriculture - HFO
+FTECOMELC,Fuel tech mix - Commercial - Electricity
+FTEINDCOA,Fuel tech mix - Industry - Coal
+FTEINDDSL,Fuel tech mix - Industry - Diesel
+FTEINDELC,Fuel tech mix - Industry - Electricity
+FTEINDHFO,Fuel tech mix - Industry - Heavy fuel oil
+FTEINDKER,Fuel tech mix - Industry - Kerosene
+FTEINDLPG,Fuel tech mix - Industry - LPG
+FTERESBGS,Fuel tech mix - Residential - Biogas
+FTERESBIO,Fuel tech mix - Residential - Solid biomass
+FTERESCHC,Fuel tech mix - Residential - Charcoal
+FTERESELC,Fuel tech mix - Residential - Electricity
+FTERESETH,Fuel tech mix - Residential - Ethanol
+FTERESKER,Fuel tech mix - Residential - Kerosene
+FTERESLPG,Fuel tech mix - Residential - LPG
+FTETRADSL,Fuel tech mix - Transport - Diesel
+FTETRAELC,Fuel tech mix - Transport - Electricity
+FTETRAGSL,Fuel tech mix - Transport - Gasoline
+FTETRAHFO,Fuel tech mix - Transport - Heavy shipping oil
+FTETRAJFL,Fuel tech mix - Transport - Jet fuel
+ICMCOA001,Industry non-metallic minerals and cement - Coal - Base efficiency
+ICMCOA005,Industry non-metallic minerals and cement - Coal - Improved efficiency
+IFPELC001,Industry food and food processing - Electricity - Base efficiency
+IMPBIO,Biomass - Imports
+IMPCOA,Coal - Imports
+IMPDSL,Diesel for transportation sector - Imports
+IMPELC001,Electricity - Imports from Ethiopia
+IMPELC002,Electricity - Imports from Uganda
+IMPGSL,Gasoline for transportation sector - Imports
+IMPHFOMOM,HFO - Import to Mombasa
+IMPHFONAI,HFO - Import to Nairobi
+IMPJFL,Jet fuel for transportation sector - Imports
+IMPKER,Kerosene - Imports
+IMPLFOELD,LFO - Import to Eldoret
+IMPLPG,LPG - Imports
+IMPNGS,Natural gas - Imports
+IMPOIL,Oil - Imports
+IMPURN,Uranium - Imports
+IOIDSL001,Industry other industry - Diesel - Base efficiency
+IOIELC001,Industry other industry - Electricity - Base efficiency
+IOIHFO001,Industry other industry - Heavy fuel oil - Base efficiency
+IOIKER001,Industry other industry - Kerosene - Base efficiency
+IOILPG001,Industry other industry - LPG - Base efficiency
+MINBGS,Biogas - Domestic
+MINBIO,Biomass - Domestic
+MINGEO,Goethermal resource
+MINHYD,Hydro resource
+MINSOL,Solar resource
+MINURN,Uranium - Domestic
+MINWND,Wind resource
+PWRBIO001,Biomass powerplant (distribution level)
+PWRCOA001,Coal - Power plant 1
+PWRCOA002,Coal - Power plant 2
+PWRCOA003,Coal - Power plant 3
+PWRDIST,Distribution grid
+PWRGEO001,Geothermal - Power plant 1
+PWRGEO002,Geothermal - Power plant 2
+PWRGEO003,Geothermal - Power plant 3
+PWRGEO004,Geothermal - Power plant 4
+PWRGEO005,Geothermal - Power plant 5
+PWRGEO006,Geothermal - Power plant 6
+PWRGEO007,Geothermal - Power plant 7
+PWRGEO008,Geothermal - Power plant 8
+PWRGEO009,Geothermal - Power plant 9
+PWRGEO010,Geothermal - Power plant 10
+PWRGEO011,Geothermal - Power plant 11
+PWRGEO012,Geothermal - Power plant 12
+PWRGEO013,Geothermal - Power plant 13
+PWRGEO014,Geothermal - Power plant 14
+PWRGEO015,Geothermal - Power plant 15
+PWRGEO016,Geothermal - Power plant 16
+PWRGEO017,Geothermal - Power plant 17
+PWRGEO018,Geothermal - Power plant 18
+PWRGEO019,Geothermal - Power plant 19
+PWRGEO020,Geothermal - Power plant 20
+PWRGEO021,Geothermal - Power plant 21
+PWRGEO022,Geothermal - Power plant 22
+PWRGEO023,Geothermal - Power plant 23
+PWRGEO024,Geothermal - Power plant 24
+PWRGEO025,Geothermal - Power plant 25
+PWRGEO026,Geothermal - Power plant 26
+PWRGEO027,Geothermal - Power plant 27
+PWRGEO028,Geothermal - Power plant 28
+PWRGEO029,Geothermal - Power plant 29
+PWRGEO030,Geothermal - Power plant 30
+PWRGEO031,Geothermal - Power plant 31
+PWRGEO032,Geothermal - Power plant 32
+PWRGEO033,Geothermal - Power plant 33
+PWRGEO034,Geothermal - Power plant 34
+PWRGEO035,Geothermal - Power plant 35
+PWRGEO036,Geothermal - Power plant 36
+PWRGEO037,Geothermal - Power plant 37
+PWRGEO038,Geothermal - Power plant 38
+PWRGEO039,Geothermal - Power plant 39
+PWRGEO040,Geothermal - Power plant 40
+PWRGEO041,Geothermal - Power plant 41
+PWRGEO042,Geothermal - Power plant 42
+PWRGEO043,Geothermal - Power plant 43
+PWRGEO044,Geothermal - Power plant 44
+PWRGEO045,Geothermal - Power plant 45
+PWRGEO046,Geothermal - Power plant 46
+PWRGEO047,Geothermal - Power plant 47
+PWRGEO048,Geothermal - Power plant 48
+PWRGEO049,Geothermal - Power plant 49
+PWRGEO050,Geothermal - Power plant 50
+PWRGEO051,Geothermal - Power plant 51
+PWRGEO101,Geothermal - Power plant 52
+PWRGEO102,Geothermal - Power plant 53
+PWRHFO001,HFO - Power plant 1
+PWRHFO002,HFO - Power plant 2
+PWRHFO003,HFO - Power plant 3
+PWRHFO004,HFO - Power plant 4
+PWRHFO005,HFO - Power plant 5
+PWRHFO006,HFO - Power plant 6
+PWRHFO007,HFO - Power plant 7
+PWRHFO008,HFO - Power plant 8
+PWRHFO009,HFO - Power plant 9
+PWRHYD001,Hydro - Power plant 1
+PWRHYD002,Hydro - Power plant 2
+PWRHYD003,Hydro - Power plant 3
+PWRHYD004,Hydro - Power plant 4
+PWRHYD005,Hydro - Power plant 5
+PWRHYD006,Hydro - Power plant 6
+PWRHYD007,Hydro - Power plant 7
+PWRHYD008,Hydro - Power plant 8
+PWRHYD009,Hydro - Power plant 9
+PWRHYD010,Hydro - Power plant 10
+PWRHYD011,Hydro - Power plant 11
+PWRHYD012,Hydro - Power plant 12
+PWRHYD013,Hydro - Power plant 13
+PWRHYD014,Hydro - Power plant 14
+PWRHYD015,Hydro - Power plant 15
+PWRHYD016,Hydro - Power plant 16
+PWRHYD101,Hydro - Power plant 17
+PWRLFO001,LFO - Power plant 1
+PWRLFO002,LFO - Power plant 2
+PWRLFO003,LFO - Power plant 3
+PWRNGS001,Natural Gas - Power plant 1
+PWRNGS002,Natural Gas - Power plant 2
+PWRNGS003,Natural Gas - Power plant 3
+PWRNGS004,Natural Gas - Power plant 4
+PWRNGS005,Natural Gas - Power plant 5
+PWRNGS006,Natural Gas - Power plant 6
+PWRNGS007,Natural Gas - Power plant 7
+PWRNGS008,Natural Gas - Power plant 8
+PWRNGS009,Natural Gas - Power plant 9
+PWRNGS010,Natural Gas - Power plant 10
+PWRNGS011,Natural Gas - Power plant 11
+PWRNGS012,Natural Gas - Power plant 12
+PWRNGS013,Natural Gas - Power plant 13
+PWRNGS014,Natural Gas - Power plant 14
+PWRNGS015,Natural Gas - Power plant 15
+PWRNGS016,Natural Gas - Power plant 16
+PWRNGS017,Natural Gas - Power plant 17
+PWRNGS018,Natural Gas - Power plant 18
+PWRSOL001,Solar - Power plant 1
+PWRSOL002,Solar - Power plant 2
+PWRSOL003,Solar - Power plant 3
+PWRSOL004,Solar - Power plant 4
+PWRSOL005,Solar - Power plant 5
+PWRSOL006,Solar - Power plant 6
+PWRSOL007,Solar - Power plant 7
+PWRSOL008,Solar - Power plant 8
+PWRSOL009,Solar - Power plant 9
+PWRSOL010,Solar - Power plant 10
+PWRSOL011,Solar - Power plant 11
+PWRSOL012,Solar - Power plant 12
+PWRSOL013,Solar - Power plant 13
+PWRSOL014,Solar - Power plant 14
+PWRSOL015,Solar - Power plant 15
+PWRSOL016,Solar - Power plant 16
+PWRSOL101,Solar - Power plant 17
+PWRTRN,Transmission grid
+PWRURN001,Nuclear - Power plant 1
+PWRURN002,Nuclear - Power plant 2
+PWRURN003,Nuclear - Power plant 3
+PWRWND001,Wind - Power plant 1
+PWRWND002,Wind - Power plant 2
+PWRWND003,Wind - Power plant 3
+PWRWND004,Wind - Power plant 4
+PWRWND005,Wind - Power plant 5
+PWRWND006,Wind - Power plant 6
+PWRWND007,Wind - Power plant 7
+PWRWND008,Wind - Power plant 8
+PWRWND009,Wind - Power plant 9
+PWRWND010,Wind - Power plant 10
+PWRWND011,Wind - Power plant 11
+PWRWND012,Wind - Power plant 12
+PWRWND013,Wind - Power plant 13
+PWRWND014,Wind - Power plant 14
+PWRWND015,Wind - Power plant 15
+PWRWND016,Wind - Power plant 16
+PWRWND017,Wind - Power plant 17
+PWRWND018,Wind - Power plant 18
+PWRWND019,Wind - Power plant 19
+PWRWND020,Wind - Power plant 20
+PWRWND021,Wind - Power plant 21
+PWRWND022,Wind - Power plant 22
+PWRWND023,Wind - Power plant 23
+PWRWND024,Wind - Power plant 24
+PWRWND025,Wind - Power plant 25
+PWRWND026,Wind - Power plant 26
+PWRWND027,Wind - Power plant 27
+PWRWND028,Wind - Power plant 28
+PWRWND101,Wind - Power plant 29
+RC1ELC001,Residential - Cooling demand urban - Electricity - Base efficiency
+RC2ELC001,Residential - Cooling demand rural - Electricity - Base efficiency
+RK1BGS001,Residential - Cooking - Urban - Biogas
+RK1BIO001 ,Residential - Cooking - Urban - Three stone open fire
+RK1BIO005,"Residential - Cooking - Urban - Improved firewood stoves (e.g., Kuni mbili stove,manufactured firewoodstoves, gasifier stoves)"
+RK1CHC001,Residential - Cooking - Urban - Metallic charcoal stove
+RK1CHC005,Residential - Cooking - Urban - Improved Charcoal Stove (ceramic lined stoves) 
+RK1ELC001,Residential - Cooking - Urban - Electric coil
+RK1ELC005 ,Residential - Cooking - Urban - Electric induction stove
+RK1ELC100 ,Residential - Cooking - Urban - Electric Pressure Cooker
+RK1ETH001,Residential - Cooking - Urban - Biofuel stove (e.g. KOKO)
+RK1KER001 ,"Residential - Cooking - Urban - Kerosene stove"
+RK1LPG001 ,Residential - Cooking - Urban - LPG stove
+RK2BGS001,Residential - Cooking - Rural - Biogas
+RK2BIO001 ,Residential - Cooking - Rural - Three stone open fire
+RK2BIO005,"Residential - Cooking - Rural - Improved firewood stoves (e.g., Kuni mbili stove,manufactured firewoodstoves, gasifier stoves)"
+RK2CHC001 ,Residential - Cooking - Rural - Metallic charcoal stove
+RK2CHC005 ,Residential - Cooking - Rural - Improved Charcoal Stove (ceramic lined stoves) 
+RK2ELC001,Residential - Cooking - Rural - Electric coil
+RK2ELC005,Residential - Cooking - Rural - Electric induction stove
+RK2ELC100,Residential - Cooking - Rural - Electric Pressure Cooker
+RK2ETH001,Residential - Cooking - Rural - Biofuel stove (e.g. KOKO)
+RK2KER001,"Residential - Cooking - Rural - Kerosene stove"
+RK2LPG001 ,Residential - Cooking - Rural - LPG stove
+RL1ELC001,Residential - Lighting urban - Electricity - Base efficiency
+RL1ELC005,Residential - Lighting urban - Electricity - Improved efficiency
+RL1KER001,Residential - Lighting urban - Kerosene - Base efficiency
+RL1KER005,Residential - Lighting urban - Kerosene - Improved efficiency
+RL2ELC001,Residential - Lighting rural - Electricity - Base efficiency
+RL2ELC005,Residential - Lighting rural - Electricity - Improved efficiency
+RL2KER001,Residential - Lighting rural - Kerosene - Base efficiency
+RL2KER005,Residential - Lighting rural - Kerosene - Improved efficiency
+RO1ELC001,Residential - Other electricity demand urban - Electricity - Base efficiency
+RO1ELC005,Residential - Other electricity demand urban - Electricity - Improved efficiency
+RO2ELC001,Residential - Other electricity demand rural - Electricity - Base efficiency
+RO2ELC005,Residential - Other electricity demand rural - Electricity - Improved efficiency
+TAIJFL001,Transport - Aviation - Jet fuel - Base efficiency
+TRBDSL001,Transport - Bus - Diesel - Base efficiency
+TRBDSL005,Transport - Bus - Diesel - Improved efficiency
+TRBDSL010,Transport - Bus - Diesel - High efficiency
+TRBELC001,Transport - Bus - Electricity - Base efficiency
+TRBGSL001,Transport - Bus - Gasoline - Base efficiency
+TRBGSL005,Transport - Bus - Gasoline - Improved efficiency
+TRBGSL010,Transport - Bus - Gasoline - High efficiency
+TRCDSL001,Transport - Passenger car - Diesel - Base efficiency
+TRCDSL005,Transport - Passenger car - Diesel - Improved efficiency
+TRCDSL010,Transport - Passenger car - Diesel - High efficiency
+TRCELC001,Transport - Passenger car - Electricity - Base efficiency
+TRCGSL001,Transport - Passenger car - Gasoline - Base efficiency
+TRCGSL005,Transport - Passenger car - Gasoline - Improved efficiency
+TRCGSL010,Transport - Passenger car - Gasoline - High efficiency
+TRHDSL001,Transport - Heavy goods vehicle - Diesel - Base efficiency
+TRHDSL005,Transport - Heavy goods vehicle - Diesel - Improved efficiency
+TRHDSL010,Transport - Heavy goods vehicle - Diesel - High efficiency
+TRHGSL001,Transport - Heavy goods vehicle - Gasoline - Base efficiency
+TRHGSL005,Transport - Heavy goods vehicle - Gasoline - Improved efficiency
+TRHGSL010,Transport - Heavy goods vehicle - Gasoline - High efficiency
+TRLDSL001,Transport - Light commerical vehicle - Diesel - Base efficiency
+TRLDSL005,Transport - Light commerical vehicle - Diesel - Improved efficiency
+TRLDSL010,Transport - Light commerical vehicle - Diesel - High efficiency
+TRLELC005,Transport - Light commercial vehicle - Electricity - Base efficiency
+TRLGSL001,Transport - Light commerical vehicle - Gasoline - Base efficiency
+TRLGSL005,Transport - Light commerical vehicle - Gasoline - Improved efficiency
+TRLGSL010,Transport - Light commerical vehicle - Gasoline - High efficiency
+TRMDSL001,Transport - Motorbike/two-wheeler - Diesel - Base efficiency
+TRMDSL005,Transport - Motorbike/two-wheeler - Diesel - Improved efficiency
+TRMDSL010,Transport - Motorbike/two-wheeler - Diesel - High efficiency
+TRMELC001,Transport - Motorbike/two-wheeler - Electricity - Base efficiency
+TRMGSL001,Transport - Motorbike/two-wheeler - Gasoline - Base efficiency
+TRMGSL005,Transport - Motorbike/two-wheeler - Gasoline - Improved efficiency
+TRMGSL010,Transport - Motorbike/two-wheeler - Gasoline - High efficiency
+TTRDSL001,Transport - Trains (Rail) - Diesel - Base efficiency
+TTRELC001,Transport - Trains (Rail) - Electricity - Base efficiency
+TWDHFO001,Transport - Shipping - Heavy shipping oil - Base efficiency
+UPSCHC,Upstream charcoal production
+UPSETH,Upstream ethanol production

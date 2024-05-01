@@ -1,0 +1,66 @@
+﻿Code,Description
+AGRDSL,Agriculture - Diesel
+AGRGSL,Agriculture - Gasoline
+AGRHFO,Agriculture - Heavy fuel oil
+BGS,Biogas
+BIO,Biomass
+CHC,Charcoal
+COA,Coal
+COMELC,Commercial - Electricity
+DEMAGR,Demand - Agriculture
+DEMCCO,Demand - Commercial other
+DEMICM,Demand - Industry - Non-metallic minerals and cement
+DEMIFP,Demand - Industry - Food and food processing
+DEMIOI,Demand - Industry - Other industry
+DEMRC1,Demand - Residential - Cooling demand urban
+DEMRC2,Demand - Residential - Cooling demand rural
+DEMRK1,Demand - Residential - Cooking and hot water urban
+DEMRK2,Demand - Residential - Cooking and hot water rural
+DEMRL1,Demand - Residential - Lighting urban
+DEMRL2,Demand - Residential - Lighting rural
+DEMRO1,Demand - Residential - Other electricity demand urban
+DEMRO2,Demand - Residential - Other electricity demand rural
+DEMTAI,Demand - Transport - Aviation
+DEMTRB,Demand - Transport - Bus
+DEMTRC,Demand - Transport - Passenger car
+DEMTRH,Demand - Transport - Heavy goods vehicle
+DEMTRL,Demand - Transport - Light commercial vehicle
+DEMTRM,Demand - Transport - Motorbike/two-wheeler
+DEMTTR,Demand - Transport - Trains (Rail)
+DEMTWD,Demand - Transport - Shipping
+DSL,Diesel
+ELC001,Electricity high voltage (transmission)
+ELC002,Electricity medium voltage
+ELC003,Electricity low voltage (distribution)
+ETH,Ethanol
+GEO,Geothermal
+GSL,Gasoline
+HFOMOM,Heavy fuel oil - Mombasa
+HFONAI,Heavy fuel oil - Nairobi
+HYD,Hydro
+INDCOA,Industry - Coal
+INDDSL,Industry - Diesel
+INDELC,Industry - Electricity
+INDHFO,Industry - Heavy fuel oil
+INDKER,Industry - Kerosene
+INDLPG,Industry - LPG
+JFL,Jet fuel
+KER,Kerosene
+LFOELD,Light fuel oil - Eldoret
+LPG,Liquefied petroleum gas
+NGS,Natural gas
+RESBGS,Residential - Biogas
+RESBIO,Residential - Biomass
+RESCHC,Residential - Charcoal
+RESELC,Residential - Electricity
+RESETH,Residential - Ethanol
+RESKER,Residential - Kerosene
+RESLPG,Residential - LPG
+SOL,Solar
+TRADSL,Transport - Diesel
+TRAELC,Transport - Electricity
+TRAGSL,Transport - Gasoline
+TRAHFO,Transport - Heavy fuel oil
+TRAJFL,Transport - Jet fuel
+URN,Uranium
+WND,Wind

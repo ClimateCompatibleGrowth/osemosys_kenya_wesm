@@ -1,0 +1,17 @@
+﻿Sector,Energy service demand,Driver,Comments
+Agriculture,Agriculture demand,Agriculture sector GVA,
+Commercial,Electrical appliance (inc. cooling),Commercial GVA,GVA projections based on World Bank data.
+,Heating,Commercial GVA,
+Industry,Electrical appliances,"Industry GVA - manufacturing, other ",
+,High temp. heat,"Industry GVA - manufacturing, other ",
+,Low temp. heat,"Industry GVA - manufacturing, other ",
+Residential,Lighting,"Households, household electricity use",Household (HH) occupancy based on estimated growth projections. Can consider using LCPDP HH size projections based on KNBS data. HH electricity use assumes 100% universal access. HH electricity use can be based on LCPDP demand forecast projections on domestic consumption .
+,Cooling,"Households, household electricity use",
+,Other appliances,"Households, household electricity use",
+,Cooking,Households,"HH projections based on Population projections from UN World Population Prospectus 2022 data and World Urbanization Prospects, 2018 Revision and HH occupancy. HH projections can also be based on LCPDP projections using the same source but picking growth rates to project KNBS 2019 Census population statistics."
+,"Heating, Other",Households,
+Transports,Passenger cars,"Population, GDP / cap",Population projections from UN World Population Prospectus 2022 data. Population projections can also be based on LCPDP projections using the same source but picking growth rates to project KNBS 2019 Census statistics. GDP projections based on World Bank data. GDP projections can also be based on LCPDP projections that combines KNBS quarterly data and Budget Review and Outlook Paper (BROP) 2023.
+,Passenger 2&3 wheelers,Population,
+,Passenger Bus,Urban population,"Urban population projections based on World Urbanization Prospects, 2018 Revision and HH occupancy. Urban population projections can also be based on LCPDP projections based on the same source but picking urbanization rates to project the 2019 urban population census data."
+,Freight,GDP,
+,Other Transport,GDP,

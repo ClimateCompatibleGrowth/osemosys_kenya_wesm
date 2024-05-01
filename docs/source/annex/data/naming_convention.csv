@@ -1,0 +1,189 @@
+code,name_english
+BIO,Biomass/Biofuels
+COA,Coal
+CRU,Crude oil
+DSL,Diesel
+ELC,Electricity
+GEO,Geothermal
+GSL,Gasoline
+HFO,HFO
+HYD,Hydro
+JFL,Jet fuel
+LNG,LNG
+LPG,LPG
+PCK,Petroleum coke
+NGS,Natural gas
+OHC,Oil products
+PET,Petroleum products
+SOL,Solar
+URN,Nuclear
+WAS,MSW
+WAT,Water
+LND,Land
+WND,Wind
+CP01,Barley
+CP02,Cereals
+CP03,Coffee
+CP04,Maize
+CP05,Oilseeds
+CP06,Other crops
+CP07,Pulses
+CP08,Sorghum
+CP09,Tea
+CP10,Teff
+CP11,Wheat
+AGR,Agriculture
+BAR,Barren land
+FOR,Forests
+GRS,Grassland & woodland
+BLT,Built-up land
+OTH,Other uses
+PWR,Power sector
+PUB,Public supply
+EVT,Evapotranspiration
+PRC,Precipitation
+GRC,Groundwater recharge
+GWT,Groundwater
+SUR,Surface water run-off
+IRR,Irrigation
+REN,Other renewables
+OIL,Oil
+GAS,Gas
+LPG,LPG
+KER,Kerosene
+RES,Residential
+TRA,Transport
+IND,Industry
+COM,Commercial & services
+ELC_IMP,Electricity imports
+PWR_WAT,Power sector (consumptive use)
+PWR_WITH,Power sector (withdrawal)
+ELC_EXP,Electricity exports
+ELC_NET,Net electricity imports
+MIG,Mining
+PCK,Petroleum coke
+JET,Aviation fuels
+NAP,Naptha
+LVSPRDALL,Livestock
+LVS,Livestock
+LVSL01,Cattle
+LVSL02,Horses
+LVSL03,Donkeys/Mules
+LVSL04,Camels
+LVSL05,Sheep
+LVSL06,Pigs
+LVSL07,Chicken
+TLU,Livestock
+REC,Recharge + Run-off
+NPA,Natural pastures
+IPA,Mixed Pastures
+COF,Coffee
+IRR,Irrigation cropland
+RAI,Rainfed cropland
+NAM,NAMA
+FLU,Forests
+BGS,Biogas
+COF,Coffee
+COT,Cotton
+GRO,Groundnut
+MAI,Maize
+RCD,Dryland rice
+RCP,Wetland rice
+SOY,Soybean
+SGC,Sugarcane
+TEA,Tea
+WHE,Wheat
+BRL,Barley
+SOR,Sorghum
+RYE,Rye
+MTP,Pearl millet
+MTF,Foxtail millet
+OAT,Oat
+BUC,Buckwheat
+PTW,Potato
+PTS,Sweet potato
+CAS,Cassava
+YAM,Yam and Cocoyam
+SGB,Sugarbeet
+BEA,Phaseolus bean
+CHI,Chickpea
+COW,Cowpea
+PEA,Dry pea
+GRM,Gram
+PIG,Pigeonpea
+SUN,Sunflower
+RAP,Rapeseed
+OIL,Oilpalm
+OLI,Olive
+JAT,Jatropha
+CAB,Cabbage
+CAR,Carrot
+ONI,Onion
+TOM,Tomato
+BAN,Banana
+CIT,Citrus
+CON,Coconut
+COC,Cocoa
+FLA,Flax
+TOB,Tobacco
+ALF,Alfalfa
+TEF,Warm C4
+MIS,Miscanthus
+SWI,Switchgrass
+REE,Reed canary grass
+BMX,BMX
+RUB,Rubber
+ARE,Arecanut
+CER,Cereals
+CRD,Cardamom
+FRU,Fruits
+VEG,Vegetables
+INL,Heavy industry
+INH,Light industry
+BLD,Buildings
+BIT,Bituminous coal
+HRS,Horses
+SHP,Sheep
+GOT,Goats
+CTL,Cattle
+CML,Camels
+PGS,Pigs
+CHK,Chicken
+YAK,Yaks
+CNS,Construction
+DEG,Degraded land
+PRT,Protected land
+FOD,Fodder crops
+RFO,Fuel oil
+WST,Waste
+PKR,Palm Oil Kernels
+POM,Palm Oil Mill Effluent
+CPO,Crude Palm Oil
+EFB,Empty Fruit Bunch
+BDS,Biodiesel
+ETH,Ethanol
+BET,Bioethanol
+BBG,Bio-blended gasoline
+BAG,Bagasse
+PAS,Pastures
+HAZ,Hazelnuts
+SHE,Sheep-equivalent
+OTC,Other crops
+BEF,Beef
+PRK,Pork
+DAI,Dairy
+CMB,Combined dairy and beef
+OTL,Other livestock
+CHC,Charcoal
+RIC,Rice
+MAZ,Maize
+L01,Cattle
+L02,Horses
+L03,Donkeys/Mules
+L04,Camels
+L05,Sheep
+L06,Pigs
+L07,Chicken
+TLU,Livestock
+TEF,Teff
+HMG,Home gardens
