@@ -2,7 +2,7 @@
 1. Model structure
 ==================
 
-A description of how the Kenya WESM model is structured is given in the following. Section 1.1 briefly introduces the general structure of the model, while Section 1.2 looks at how OSeMOSYS sets have been defined for the Kenyan model, including a list of all commodities, technologies, and emissions considered. Technologies an commodities are combined to the define the reference energy system (RES), introduced in Section 1.3 and analysed more in detail, sector by sector, in Section 1.4.
+A description of how the Kenya WESM model is structured is given in the following. Section 1.1 briefly introduces the general structure of the model, while Section 1.2 looks at how OSeMOSYS sets have been defined for the Kenyan model, including a list of all commodities, technologies, and emissions considered. Technologies and commodities are combined to define the reference energy system (RES), introduced in Section 1.3 and analysed more in detail, sector by sector, in Section 1.4.
 
 1.1 General model structure 
 ===========================
