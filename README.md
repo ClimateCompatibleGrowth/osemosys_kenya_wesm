@@ -1,9 +1,15 @@
 [![Documentation Status](https://readthedocs.org/projects/osemosys-kenya-wesm/badge/?version=latest)](https://osemosys-kenya-wesm.readthedocs.io/en/latest/?badge=latest)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.11103010.svg)](https://doi.org/10.5281/zenodo.11103010)
+
 
 # OSeMOSYS Kenya Whole Energy System Model
 
 This repository houses the OSeMOSYS Kenya Whole Energy System Model (WESM), developed within the Climate Compatible Growth (CCG) Project. The model describes the entire ener Kenyan energy system, including the agricultural, commercial, industrial, residential and transport sectors. In the current version, no storage technologies are included. The data file was generated through OSeMOSYS' [user interface](https://github.com/ClimateCompatibleGrowth/OSEMOSYS_UI) developed by UNDESA, version 4.5, and the model file is the one embedded in the same version of the UI.
+
+### Versions
+
+| Version | Date    | DOI                                                                                                        | Description                                                                                   |
+|---------|---------|------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
+| 0.1.0   | 12/2023 |[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.11103010.svg)](https://doi.org/10.5281/zenodo.11103010) |First release of the model, based on the activities of the InSEM Southern Partner Fund project.|
 
 ### Acknowledgements
 This material has been produced with support from the Climate Compatible Growth (CCG) programme. CCG is funded by UK AID from the UK Government. Views expressed herein do not necessarily reflect the UK government's official policies.
