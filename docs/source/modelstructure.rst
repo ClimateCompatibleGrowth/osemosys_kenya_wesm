@@ -2,31 +2,29 @@
 1. Model structure
 ==================
 
-A description of how the Kenya-WESM model is structured is given in the following. Section 1.1 gives a general description of the model while Section 1.2 gives additional information based on how OSeMOSYS' sets have been defined listing all fuels, technologies and emissions considered. Section 2.3 introduces the full Reference Energy System and Section 2.4 looks at each demand sector more in detail.
+A description of how the Kenya WESM model is structured is given in the following. Section 1.1 briefly introduces the general structure of the model, while Section 1.2 looks at how OSeMOSYS sets have been defined for the Kenyan model, including a list of all commodities, technologies, and emissions considered. Technologies an commodities are combined to the define the reference energy system (RES), introduced in Section 1.3 and analysed more in detail, sector by sector, in Section 1.4.
 
 1.1 General model structure 
 ===========================
 
-The general model structure is represented in the following figure. Primary energy can be either imported or produced locally. Renewable energy sources are local resources that feed into the power system to produce electricty that is then distributed to the various sectors. Bioenergy can both be directed towards the power sector, to be used in biomass power plants, or directly to the residential sector, where it is used for cooking and heating water in the form of wood fuel, charcoal, bioethanol or biomethane. Finally, fossil fuels are only imported, and are distributed through the various end use sectors as well as to the power system. No dometic production of fossil fuels is considered, as well as no refining capacity. On the end use sectors side of the energy system, sectors considered include agriculture, commercial, industry, residential and transports. Demands are modelled according to the energy service demand principle, to allow the model to choose between different technology options in each sector.
+The general model structure is represented in the following figure. Primary energy can be either imported or extracted locally. Kenya hs abundant renewable energy sources - like solar, wind, hydro and geothermal - that feed into the power system to provide electricity to the end use sectors. Bioenergy can be directly used in end use sectors, as in the case of wood fuel for cooking, or converted to secondary fuels, like electricity, charcoal, bioethanol or biomethane. Kenya's scarce fossil fuel resources are not considered in the analysis, as  the country does not currently have any local production or refineries, nor plans to start extraction activities in the foreseeable future. Fossil fuels are hence only imported, and distributed to the different sectors. The energy demand of each sector is converted into energy service demands, to allow the model to identify the cost optimal technology mix for each sector.
 
 .. image:: ./img/general_structure.svg
   :width: 1200
   :alt: Simplified Reference energy system
-  
-
 
 1.2 Model configuration - Sets
 ==============================
 
 Sets shape the general model structure and contain information on the temporal and geographical coordinates of the model, as well as the fuels, technologies and typology of emissions included.
 
-Years and region
+Region and years
 ----------------
 The model is a single node national model for the whole country, meaning that no internal energy fluxes between different regions are considered. The time horizon is between 2019 and 2050, with one year increments. Years between 2019 and 2022 are used for calibration and checked with available data.
 
 Timeslices
 ----------
-Timeslices constitue the representation of time within a single year in the model. The Kenya-WESM uses 48 timeslices, given by the combination of 4 seasons, 2 day types (weekday and week end days), and 6 time intervals within one day.
+Timeslices constitue the representation of time within a single year in the model. The Kenya WESM uses 48 timeslices, given by the combination of 4 seasons, 2 day types (weekday and week end days), and 6 time intervals within one day.
 
 Fuels
 -----
