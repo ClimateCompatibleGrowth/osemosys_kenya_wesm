@@ -7,9 +7,10 @@ This repository houses the OSeMOSYS Kenya Whole Energy System Model (WESM), deve
 
 ### Versions
 
-| Version | Date    | DOI                                                                                                        | Description                                                                                   |
-|---------|---------|------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
-| 0.1.0   | 12/2023 |[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.11103010.svg)](https://doi.org/10.5281/zenodo.11103010) |First release of the model, based on the activities of the InSEM Southern Partner Fund project.|
+| Version | Date    | DOI                                                                                                        | Description                                                                                         |
+|---------|---------|------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
+| 0.1.0   | 12/2023 |[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.11103010.svg)](https://doi.org/10.5281/zenodo.11103010) |First release of the model, based on the activities of the InSEM Southern Partner Fund project.      |
+| 0.1.1   | 12/2024 ||Version including green hydogen, based on the activities of the H2WESM Southern Partner Fund project.|
 
 ### Acknowledgements
 This material has been produced with support from the Climate Compatible Growth (CCG) programme. CCG is funded by UK AID from the UK Government. Views expressed herein do not necessarily reflect the UK government's official policies.
